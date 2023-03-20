@@ -1,6 +1,9 @@
+<div aligan=center>
 ### Hi there 👋
+  
+  </div>
 
-![KimJinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawlsdn1130&show_icons=true&theme=dark)
+
 
 <!--
 **rlawlsdn1130/rlawlsdn1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
