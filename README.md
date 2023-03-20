@@ -1,5 +1,3 @@
-👋 Hi
-
 <div aligan=center>
   
 ![KimJinwoo's github stats](https://github-readme-stats.vercel.app/api?username=rlawlsdn1130&show_icons=true&theme=tokyonight)
