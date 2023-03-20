@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>
+👋 Hi
 
 <div aligan=center>
   
